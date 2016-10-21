@@ -1,4 +1,4 @@
-# Currency_Converter
+# Currency Converter
 
 ![Currency Converter](https://github.com/samanyougarg/Currency_Converter/blob/master/screenshots.png)
 
