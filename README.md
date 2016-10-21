@@ -2,6 +2,8 @@
 
 ![Currency Converter](https://github.com/samanyougarg/Currency_Converter/blob/master/screenshots.png)
 
+
+
 Currency Converter is a fully Open Source Material Design Currency Converter built for Phones and Tablets with Android 4.0+. It allows you to easily convert the currencies as well as search for a currency choice from the list. It supports over 180 currencies! It provides answers to 2 decimal places for great accuracy and updates all exchange rates automatically.
 
 Features present :
