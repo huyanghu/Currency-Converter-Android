@@ -2,35 +2,29 @@
 
 AnExplorer
 ==========
-![Currency Converter](https://github.com/DWorkS/AnExplorer/raw/master/header.png)
+![Currency Converter](https://github.com/samanyougarg/Currency_Converter/blob/master/screenshots.png)
 
-AnExplorer is fully Open Source Minimalist Holo Designed File Manager built for Phones and Tablets with Android 4.0+. With AnExplorer File Manager you can easily find, browse, move, compress, and otherwise manage your apps easily!
+Currency Converter is a fully Open Source Material Design Currency Converter built for Phones and Tablets with Android 4.0+. It allows you to easily convert the currencies as well as search for a currency choice from the list. It supports over 180 currencies! It provides answers to 2 decimal places for great accuracy and updates all exchange rates automatically.
 
 Features present :
-* All types of storage like emmc, internal SD card, external SD cards USB OTG On-The-Go
-* Different theme of colors
-* Intuitive left/right swiping to browse folders and files
-* App Manager and Process Manager for your installed Android apps and games
-* Built-in Text Viewer
-* Perform all the file operations like Cut / Copy / Paste / Rename / Delete / Compress to zip easily
-* Acts as a Standalone File Picker
-* Only app to Show Folder sizes
-* Thumbnails for Images / Videos / Audio / Application files
-* Tablet optimized and has Root support
-
-A File Explorer which serves all your needs all the time. Compatible with Android 4.4 KitKat and latest Nexus tablets. It supports Immersive full-screen mode for better experience.
-
+. REAL-TIME CURRENCY EXCHANGE RATES
+. 180+ world currencies
+. Material design
+. Data updated every 5 minutes
+. 2 decimal places for extreme accuracy
+. Tablet layout
+. Calculate prices with the currency converter
 
 Developed By
 ============
 
-* Hari Krishna Dulipudi - <hakr@dworks.in>
+Samanyou Garg - <http://www.samanyougarg.com>
 
 
 License
 =======
 
-    Copyright 2014 Hari Krishna Dulipudi
+    Copyright 2016 Samanyou Garg
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -48,4 +42,4 @@ License
 
 
 
-[1]: https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer
+[1]: https://play.google.com/store/apps/details?id=com.appisode.currencyconverter
