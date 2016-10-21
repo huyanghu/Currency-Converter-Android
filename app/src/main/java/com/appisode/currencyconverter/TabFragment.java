@@ -1,4 +1,4 @@
-package com.example.currencyconverter;
+package com.appisode.currencyconverter;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

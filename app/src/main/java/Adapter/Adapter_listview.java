@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 import Data.Currency_Names;
 import Data.Currency_Rates;
-import com.example.currencyconverter.R;
+import com.appisode.currencyconverter.R;
 
 
 import android.app.Activity;

@@ -10,7 +10,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.currencyconverter.R;
+import com.appisode.currencyconverter.R;
 
 import java.util.ArrayList;
 

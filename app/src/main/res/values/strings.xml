@@ -6,13 +6,13 @@
 
 
 
-    <string name="Admob_Banner">Your Admob Banner ID</string>
-    <string name="Admob_Interstitial">Your Admob Interstitial ID</string>
+    <string name="Admob_Banner">ca-app-pub-5023734159586662/6215557838</string>
+    <string name="Admob_Interstitial">ca-app-pub-5023734159586662/9169024231</string>
 
 
-    <string name="Currencylayer_Key">Your CurrencyLayer API Key</string>
+    <string name="Currencylayer_Key">3741afd246e484205bd81b6bf1ac2922</string>
     <string name="Free_CC_link">http://free.currencyconverterapi.com/api/v3/convert?q=</string>
 
-    <string name="playstore_developer_name">Example</string>
+    <string name="playstore_developer_name">Appisode Studios</string>
 
 </resources>

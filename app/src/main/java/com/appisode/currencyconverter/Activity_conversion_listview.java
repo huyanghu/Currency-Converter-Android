@@ -1,4 +1,4 @@
-package com.example.currencyconverter;
+package com.appisode.currencyconverter;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
