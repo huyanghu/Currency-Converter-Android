@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.0_4064407428883895175b8bcf1c291bbdff4fe93c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ab506ae4f8823c211fc973462172ee80a5ff707d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_edf48daad33ddde28bc5cc92ed3eca425f4e39b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_38043b23a13b02be1b52eb52d8f52697abb99068.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_daa09d4812292e4133fff26b459e35ad119cce21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.android.databinding-adapters-1.2.1_657abe25e5f03ce6b81dc8eae43529ef2a803525.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_d5f4031a17db4a4a2c1e8b5737b25f00f8a32fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_2e5bd9c9e23e657a78337189ee8916e602cab332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_dd6090ec2c866175b57e6884b6636be483ecd31e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.0_c34db2c5f536f44d08f8645681a6c69f5725108f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_141a4d85e95e5717d0cacab1c530db33b43210a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.github.GrenderG/Prefs/1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0492f89ef6b9760e6db56a8a644c35fcf419854d">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.github.GrenderG-Prefs-1.1_8dc2074bd566cfc5d48c0f269776e9bb1d620a56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_858dac47ff802e1f6e7630083b3151d185277b17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.0_5dafc05dc680e3c761d10cca1fc06e8885d4734d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_a1b603c79a4a372ec72a63199dc25db73ee53e13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-8.4.0_76a8913eec3de00b2f5b4520126cf1bb09d062aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_c373c9667c0e776a67a581c7ccf7b0bbcfa60e8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_3b7607673f2fd2461c707f8c4c696de4781b0349.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_ab361c1c57f5d534985edda59fe38ef58926b2f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b821bc341f62ad65334507a90a2b07c9c7cfc53d">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/agency.tango.android-material-intro-screen-0.0.3_e77ed0f6e4a50b6b8e1ab426296d0bf8d44a4668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.4.0_e6f8a804fe1fd77ac03dc9ee8e94a8b207429f3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_402b06da4f552a220138334390a14766d152ebda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.0_4c73763f8ac551f5d4744a9cfb7b8107ad023b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ca3ce924148998850910f97bd597f6d0c3c819a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8ba55000d2d8dbb0ee7b107ef844766b49a9b37e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.android.support-design-24.2.0_1eb7f3aa3a2582968e6cb2e9a5a1dfb3ae61fd23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_7622a0b81b1457b5afe644a3f3a7d9bf1bff1808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.android.databinding-library-1.2.1_4b3ee64cb23f90e4e7204105df016f0e04c0b7f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.0_52e0751902ec69ec190430b2bd01de2691513f12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_a58d57683b9ac3df94c781951fbbec8336738600.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.0_ace56ae237b22c763bb3f747401cc448d5e2dc42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Desktop/platform_packages_apps_calculator-master/gradleA/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.0-rc2/6fd74ef202cfb785db12a652e153ea003123c36b/baseLibrary-2.2.0-rc2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6fd74ef202cfb785db12a652e153ea003123c36b">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.0-rc2_06ca410d058312685f5d9f6841db03cceba6aa92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_3c09267d546017dbf45b1fcf7ddd13a5a33e8e0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_4b83770815f8620418ba0104b526099a983ef2f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_18d3f240d4e947b57378cf4361dd193b70f313b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.0_eb856d831746f4751cd2f4748bf4924f49b7439a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_33e583ce9a893255b803f9055917e6132dcd896a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_f29bb567a71d94450f436d5c93d5a787188adfc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.0_07167a9d86999ed68227336c416f639c45d0ebfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_9791c14a25fbda478c4a226c2253589d19d68d84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.0_aeeb88ba85ee10c712140d783715b84ee5b3cc4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b821bc341f62ad65334507a90a2b07c9c7cfc53d">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/agency.tango.android-material-intro-screen-0.0.3_9beb3dcacd9ec6adf57d0c9343b08a30964da0d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.github.GrenderG/Prefs/1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0492f89ef6b9760e6db56a8a644c35fcf419854d">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.github.GrenderG-Prefs-1.1_d38f4604948ce6fc1afe48c46b783277004a3fda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/Hanuman/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.2.0_cc71b84a5f1607dbef1a2497ce90a2a2822b0535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_3702816a67baa4f5995e44934ed6218527ca1380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/samanyou/Downloads/codecanyon-18294113-currency-converter-admob-ready/CurrencyConverter/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_b66fedfbdc6d9422a825cd57eb6f49086cf6ff94.jar" />
+    </item>
+
+</items>

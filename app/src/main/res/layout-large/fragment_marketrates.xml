@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/parent_relative"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        >
+
+
+
+        <RelativeLayout
+            android:id="@+id/date_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/off_white"
+            android:padding="16dp">
+            <!--  ListRow Left sied Thumbnail image -->
+            <LinearLayout android:id="@+id/thumbnail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="3dip"
+                android:layout_alignParentLeft="true"
+
+
+                android:layout_marginRight="5dip">
+
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="50dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/usd"/>
+
+            </LinearLayout>
+
+            <!-- Title Of Song-->
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/thumbnail"
+                android:layout_toRightOf="@+id/thumbnail"
+                android:text="USD "
+                android:textColor="#040404"
+                android:typeface="sans"
+                android:layout_marginTop="5dp"
+                android:textSize="13dip"
+                android:textStyle="bold"/>
+
+            <!-- Artist Name -->
+            <TextView
+                android:id="@+id/description"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/title"
+                android:textColor="#343434"
+                android:textSize="12dip"
+                android:layout_marginTop="1dip"
+                android:layout_toRightOf="@+id/thumbnail"
+                android:text="United States Dollar" />
+
+            <!-- Rightend Duration -->
+            <TextView
+                android:id="@+id/priceTextFix"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+
+                android:gravity="center_vertical"
+                android:layout_centerVertical="true"
+                android:text="0.0"
+                android:layout_marginRight="5dip"
+                android:textSize="22dip"
+                android:textColor="@color/green"
+                android:textStyle="bold"/>
+
+            <!-- Rightend Arrow -->
+
+
+
+
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/adView"
+            android:layout_below="@+id/date_layout">
+
+        </ListView>
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="5sp"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/Admob_Banner" >
+        </com.google.android.gms.ads.AdView>
+
+    </RelativeLayout>
+
+
+
+
+
+
+
+</RelativeLayout>

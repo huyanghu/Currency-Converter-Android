@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Rate This app"
+          android:id="@+id/rate_thisapp"
+          android:icon="@drawable/inbox"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" />
+    <item android:title="More Apps"
+          android:id="@+id/more_apps"
+          android:icon="@drawable/sent"/>
+
+
+    <item android:title="@string/help"
+        android:id="@+id/help_menu"
+         android:icon="@drawable/help" />
+
+
+</menu>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="Admob_Banner">Your Admob Banner ID</string>
+    <string name="Admob_Interstitial">Your Admob Interstitial ID</string>
+
+
+    <string name="Currencylayer_Key">Your CurrencyLayer API Key</string>
+    <string name="Free_CC_link">http://free.currencyconverterapi.com/api/v3/convert?q=</string>
+
+    <string name="playstore_developer_name">Example</string>
+
+</resources>
