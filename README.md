@@ -5,13 +5,13 @@
 Currency Converter is a fully Open Source Material Design Currency Converter built for Phones and Tablets with Android 4.0+. It allows you to easily convert the currencies as well as search for a currency choice from the list. It supports over 180 currencies! It provides answers to 2 decimal places for great accuracy and updates all exchange rates automatically.
 
 Features present :
-. REAL-TIME CURRENCY EXCHANGE RATES
-. 180+ world currencies
-. Material design
-. Data updated every 5 minutes
-. 2 decimal places for extreme accuracy
-. Tablet layout
-. Calculate prices with the currency converter
+* REAL-TIME CURRENCY EXCHANGE RATES
+* 180+ world currencies
+* Material design
+* Data updated every 5 minutes
+* 2 decimal places for extreme accuracy
+* Tablet layout
+* Calculate prices with the currency converter
 
 Developed By
 ============
